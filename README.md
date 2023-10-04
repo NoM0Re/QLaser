@@ -1,5 +1,17 @@
 # QLaser
 Plugin for QDKP shows Alts/Mains in Toolltip<br/><br/>
+[![HitCount](https://hits.dwyl.com/NoM0Re/QLaser.svg?style=flat-square&show=unique)](http://hits.dwyl.com/NoM0Re/QLaser) <a href='https://github.com/NoM0Re' target="_blank">
+  <img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=flat-square&logo=GitHub&logoColor=white&labelColor=black&color=black'/>
+</a>
+<a href='https://www.youtube.com/@xpatrick99x' target="_blank">
+  <img alt='youtube' src='https://img.shields.io/badge/YouTube-100000?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000&color=black'/>
+</a>
+<a href='https://www.twitch.tv/noom0re' target="_blank">
+  <img alt='Twitch' src='https://img.shields.io/badge/Twitch-100000?style=flat-square&logo=Twitch&logoColor=white&labelColor=6441a5&color=black'/>
+</a>
+<a href='https://streamelements.com/noom0re/tip' target="_blank">
+  <img alt='PayPal' src='https://img.shields.io/badge/Buy_me a coffee-100000?style=flat-square&logo=PayPal&logoColor=white&labelColor=3b7bbf&color=000000'/>
+</a>
 
 ## **Installation**
 <br/>
