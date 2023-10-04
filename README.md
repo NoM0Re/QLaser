@@ -1,4 +1,4 @@
-# QLaser
+# QLaser 3.3.5a
 Plugin for QDKP shows Alts/Mains in Toolltip<br/><br/>
 [![HitCount](https://hits.dwyl.com/NoM0Re/QLaser.svg?style=flat-square&show=unique)](http://hits.dwyl.com/NoM0Re/QLaser) <a href='https://github.com/NoM0Re' target="_blank">
   <img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=flat-square&logo=GitHub&logoColor=white&labelColor=black&color=black'/>
