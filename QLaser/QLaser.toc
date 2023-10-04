@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Quick Laser |cffff0000[Above Average Edtion v1.2]|r
+## Author: Laserkraft, NoM0Re
+## Notes: Shows Alts in Tooltips
+## Version: 1.2
+## Dependencies: QDKP_V2
+
+embeds.xml
+
+Core.lua
+Utils.lua
+UnitTip.lua
