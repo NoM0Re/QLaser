@@ -21,7 +21,7 @@ function QLaser.HookSetUnit()
 
         unitTip = unitTip .. ("|cffffff00-----------------------------|r\n")
 
-        unitTip = unitTip .. "" .. mainColored .. "|cFF00FF00 [Main] |r" .. (QDKP2online[main] and "|cff00ff00Online|r" or "|cffa6a6a6Offline|r") .. " ".. filteredmainNote .. "\n";
+        unitTip = unitTip .. "" .. mainColored .. "|cFF40E0D0 [Main] |r" .. (QDKP2online[main] and "|cff00ff00Online|r" or "|cffa6a6a6Offline|r") .. " ".. filteredmainNote .. "\n";
 
         if QDKP2_LaserAlts[main] ~= nil then
             for alt in pairs(QDKP2_LaserAlts[main]) do
